@@ -1,0 +1,10 @@
+*.cproject
+*.project
+*.launch
+*.ld
+*.zip
+*.exe
+
+*/.metadata
+*/*/Debug/
+*/*/.settings/
